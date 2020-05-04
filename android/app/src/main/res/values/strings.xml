@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LED 점등</string>
+    <string name="btn1_name">1번 버튼</string>
+    <string name="btn2_name">2번 버튼</string>
+    <string name="btn3_name">3번 버튼</string>
+    <string name="btn4_name">4번 버튼</string>
+    <string name="btn5_name">5번 버튼</string>
+</resources>
